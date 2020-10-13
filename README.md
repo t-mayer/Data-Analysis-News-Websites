@@ -1,4 +1,4 @@
-# Data-Analysis-News-Websites
+# Data Analysis: News Headlines and/or Articles
 
 
 This repository was created to store analyses of textual data from news websites. 
@@ -9,4 +9,5 @@ Following data analyses techniques will be applied:
 
 - EDA (Exploratory data analysis): word count, date + time of publication, trigrams, bags-of-words 
 - Sentiment analysis
+- Topic Modeling
 - Analysis of content and/or headlines
